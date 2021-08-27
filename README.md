@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Node.js and Express.**
+- 🌱 I’m currently learning **Node.js and Express Js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vipul123-space/vipul123-space/projects](https://github.com/vipul123-space/vipul123-space/projects)
 
